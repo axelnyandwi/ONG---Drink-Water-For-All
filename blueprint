@@ -1,0 +1,36 @@
+Besoin :
+Ce tableau de bord est destiné à l’ONG Drink Water For All, qui a pour ambition de fournir de l’eau aux habitants de monde entier. Celui-ci servira à décider quel domaine d’expertise financer et dans quel pays le mettre en place. Les domaines d’expertise sont les suivants : 
+•	Création de services d’accès à l’eau potable
+•	Modernisation de services d’accès à l’eau déjà existante
+•	Consulting auprès d’administration/gouvernements à propos des politiques d’accès à l’eau
+L’utilisateur souhaitera donc explorer les données liées à l'accès à l'eau potable, à la stabilité politique et au taux de mortalité et nombre de mort attribuée à des services eaux insalubres. Le dashboard doit fournir des informations agrégées au niveau mondial, continental et national, avec la possibilité pour l'utilisateur de filtrer les données en fonction de la stabilité politique.
+Mesures spécifiques utilisées :
+1.	Accès à l'eau potable :
+•	Taux de la population utilisant au moins des services d'eau potable de base (%)
+•	Taux de la population utilisant des services d'eau potable sûres (%)
+2.	Mortalité :
+•	Taux de mortalité attribué à une exposition à des services d’eaux insalubres (%)
+•	Nombre de morts attribué à une exposition à des services d’eaux insalubres
+3.	Stabilité politique :
+•	Evolution de l’indicateur de stabilité politique pour chaque pays
+Visualisations mises en place :
+1.	Vue Mondiale :
+•	Evolution de la population mondiale par an
+•	Nombre de mort et taux de mortalité dû à de l'eau insalubre en 2016
+•	Taux de mortalité en 2016 dû à de l'eau insalubre sur une carte
+•	La stabilité politique mondiale par an
+2.	Vue Continentale (possibilité de filtrer par continent) :
+•	Evolution de la population par continent, par granularité et par an
+•	Nombre de mort et taux de mortalité dû à de l'eau insalubre en 2016
+•	Taux de mortalité en 2016 dû à de l'eau insalubre sur une carte
+•	Le nombre de mort et taux de mortalité dû à l'eau insalubre en 2016 dans le monde par continent et pays.
+3.	Vue Nationale (possibilité de filtrer par pays) :
+•	Evolution de la population par continent, par granularité et par an
+•	Nombre de mort et taux de mortalité dû à de l'eau insalubre en 2016
+•	Population mondiale ayant accès à une eau sûre ou basique
+Fonctionnalités du dashboard :
+•	Possibilité de filtrer les données en fonction de la stabilité politique des pays. Un pays sera considéré comme stable lorsque son indice de stabilité politique est supérieur à 0.
+•	Visualisation de l'évolution de différents indicateurs au fil du temps.
+•	Comparaisons entre les différents continents et pays.
+•	Des cartes permettant représenter le taux de mortalité attribuée à l'eau potable insalubre à l'échelle mondiale et continentale, ainsi que la stabilité politique dans le monde par pays.
+.
