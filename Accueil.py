@@ -29,7 +29,29 @@ st.markdown(
 image_url = "https://github.com/axelnyandwi/dashboard_ong/blob/main/picture.png?raw=true"
 st.image(image_url, use_column_width=True)
 
+def vue_mondiale():
+    st.title("Vue Mondiale")
+    # ... code spécifique à la vue mondiale ...
 
+def vue_continentale():
+    st.title("Vue Continentale")
+    # ... code spécifique à la vue continentale ...
+
+def vue_nationale():
+    st.title("Vue Nationale")
+    # ... code spécifique à la vue nationale ...
+
+# Liste des options pour la boîte de sélection
+options = ["Vue Mondiale", "Vue Continentale", "Vue Nationale"]
+selected_page = st.selectbox("Sélectionnez une vue", options)
+
+# Afficher la page sélectionnée
+if selected_page == "Vue Mondiale":
+    vue_mondiale()
+elif selected_page == "Vue Continentale":
+    vue_continentale()
+elif selected_page == "Vue Nationale":
+    vue_nationale()
 
 
 
