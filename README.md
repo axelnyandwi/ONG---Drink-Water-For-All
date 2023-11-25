@@ -22,3 +22,6 @@ Quelques indicateurs surveillés comprennent :
 - Accès à l'eau potable.
 - Stabilité politique du pays.
 
+## Lien vers le dashboard
+
+https://dashboardong-mwcfaktrfgzfxdzhrslofk.streamlit.app/
