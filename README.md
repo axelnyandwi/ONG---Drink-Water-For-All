@@ -24,4 +24,4 @@ Quelques indicateurs surveillés comprennent :
 
 ## Lien vers le dashboard
 
-https://dashboardong-mwcfaktrfgzfxdzhrslofk.streamlit.app/
+Le tableau de bord interactif basé sur Streamlit est disponible ici : https://dashboardong-mwcfaktrfgzfxdzhrslofk.streamlit.app/
